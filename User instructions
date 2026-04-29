@@ -1,0 +1,13 @@
+# Setup configuration, the two commands in the terminal to run the live server
+# these two lines can be used to activate the API
+
+# uvicorn IFS140api.main:app --reload
+# python -m uvicorn IFS140api.main:app --reload --app-dir /home/kgas/code/python
+
+# then paste this into the terminal to run the APP
+
+# python IFS140gui/IFSapp.py
+
+# --- TESTING ---
+
+# /home/kgas/code/python/IFS140PROFOLD/.venv/bin/python -m uvicorn IFS140api.main:app --reload --app-dir /home/kgas/code/python
