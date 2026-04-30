@@ -1,5 +1,5 @@
 My team and I developed an HR Management System for our first-year Information Systems project. The system is used to manage 
-]company activities remotely through a dashboard. It provides insights into the number of employees currently active and those 
+company activities remotely through a dashboard. It provides insights into the number of employees currently active and those 
 on leave. It also tracks all types of leave, including maternity, vacation, and both paid and unpaid leave. In addition, the system 
 records the number of leave days each employee has. Management is responsible for approving or rejecting leave requests. Our project 
 was awarded 4 out of 5 stars for its functionality and overall implementation.
